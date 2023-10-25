@@ -110,7 +110,6 @@ typedef struct
  - 0 - OK
  - 1 - ошибка вычисления
 
-## Chapter III
 
 ## Part 1. Реализация функции библиотеки decimal.h
 
